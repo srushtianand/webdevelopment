@@ -1,0 +1,26 @@
+//console.log("i am user");
+//console.erroe("error occured");
+//console.warn("it is warning");
+//alert('i am  alert')
+//console.log(name+" is my college")
+//if(true){
+    //var name=" sjcit"
+    //console.log(name+ "inside vtu")
+    //console.log(window)
+//function sjcit(){
+    //alert('i am function')
+//}
+//sjcit();
+//var letvar = 'i am outside'
+//if(true){
+   // let letvar = 'i am inside'
+    //onsole.log(letvar)
+//}
+//function vtu(){
+//console.log("inside VTU")
+//console.log(window)
+//}
+function myFunction(elem){
+    console.log(elem)
+    elem.innerHTML="sjcit";
+} 

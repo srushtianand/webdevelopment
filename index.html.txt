@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>page </title>
+            <script src='app.js'></script>
+    </head>
+    <body>
+        <p onclick="myFunction(this)">
+            click to change color
+        </p>
+        <div onclick="myFunction(this)">
+            This is DIV tag
+        </div>
+        <p id = "sjcit" class="class-sjcit"> 
+            Access via ID</p>
+            <p
+            onclick= "myFunction(this)">"
+            sample</p>
+            <div class="class-sjcit">
+            this is div class
+            </div>
+            
+
+    </body>
+    </html>
